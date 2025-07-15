@@ -1,3 +1,5 @@
+Descripción:
+Este proyecto permite llevar el control de productos e ingredientes en un inventario. Usa programación orientada a objetos, una base de datos SQLite y una interfaz gráfica creada con Tkinter. Permite registrar productos, verificar stock, controlar fechas de vencimiento y gestionar movimientos de entrada y salida
 
  Estructura de clases
 Las clases principales del sistema son:
